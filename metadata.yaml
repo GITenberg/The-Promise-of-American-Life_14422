@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5517
     wikipedia: http://en.wikipedia.org/wiki/Herbert_Croly
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14422#The-Promise-of-American-Life
 gutenberg_issued: '2004-12-22'
 gutenberg_type: Text
 identifiers:

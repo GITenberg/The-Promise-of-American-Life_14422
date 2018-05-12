@@ -1,0 +1,31 @@
+_repo: The-Promise-of-American-Life_14422
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Croly, Herbert David
+    alias: Croly, H. (Herbert)
+    birthdate: 1869
+    deathdate: 1930
+    gutenberg_agent_id: '5517'
+    url: http://www.gutenberg.org/2009/agents/5517
+    wikipedia: http://en.wikipedia.org/wiki/Herbert_Croly
+description: ''
+gutenberg_issued: '2004-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14422'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Politics and government'
+- !lcsh 'United States -- Social conditions -- 1865-1918'
+- !lcsh 'Political science -- United States -- History'
+- !lcc 'JA'
+- !lcsh 'Progressivism (United States politics)'
+title: The Promise of American Life
+url: http://www.gutenberg.org/ebooks/14422
